@@ -1,1 +1,2 @@
-# python_taskagitmakas
+# python_taskagitmakas oyunu 
+"Taş, Kağıt, Makas" oyunu, taş, kağıt ve makas seçeneklerine dayanır. Oyuncu ve bilgisayar seçim yapar; taş makası, makas kağıdı, kağıt ise taşı yener. İlk iki turu kazanan galip olur. Python kodu, oyuncunun seçimine karşı bilgisayarın rastgele bir seçim yapmasını sağlar ve kazanan belirlenir. Oyuncuya oyuna devam etmek isteyip istemediği sorulur ve sonunda istatistikler gösterilir.
